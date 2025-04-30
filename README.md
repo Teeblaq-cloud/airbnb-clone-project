@@ -14,7 +14,16 @@
 # Improved Customer Satisfaction:A well-designed booking system that is easy to use and understand can significantly improve customer satisfaction. .
 # Increased Repeat Business:When users have a positive experience with a booking system, they are more likely to return to the site for future bookings.
 # Reduced Need for Support:A user-friendly design can reduce the need for customer support inquiries, as users can easily navigate the system and find answers to their questions. .
+# UI/UX Design Planning
+Color Styles:
 
-# Primary Font: Circular, Medium (500), 16px
-# Headings: Circular, Bold (700), 24px-32px
-# Secondary Text: Circular, Book (400), 14px
+Primary: #FF5A5F
+Secondary: #008489
+Background: #FFFFFF
+Text: #222222
+Secondary Text: #717171
+Typography:
+
+Primary Font: Circular, Medium (500), 16px
+Headings: Circular, Bold (700), 24px-32px
+Secondary Text: Circular, Book (400), 14px
